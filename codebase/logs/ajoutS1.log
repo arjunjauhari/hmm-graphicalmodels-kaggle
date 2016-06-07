@@ -1,0 +1,1762 @@
+ajhmm
+=========== Running FOLD 1 ==============
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2         0.0270004             0             0
+       3                 0             0             0
+Algorithm converged after 3 iterations.
+
+estr =
+
+     1
+
+
+esem =
+
+    0.2987    0.1510    0.1457    0.1387    0.2660
+
+
+s =
+
+     1
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00248348             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+     2
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00072642             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+     3
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00312061             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+     4
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00934915             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+     5
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00452241             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+     6
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00339644             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+     7
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00218624             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+     8
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00487858             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+     9
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00110551             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    10
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00540951             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+=========== Running FOLD 2 ==============
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2         0.0271173             0             0
+       3                 0             0             0
+Algorithm converged after 3 iterations.
+
+estr =
+
+     1
+
+
+esem =
+
+    0.2990    0.1509    0.1460    0.1390    0.2651
+
+
+s =
+
+    11
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00220887             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    12
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00329505             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    13
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00283436             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    14
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00198537             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    15
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00132877             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    16
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00179416             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    17
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2       0.000387791             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    18
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2          0.003602             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    19
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00070761             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    20
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00108369             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+=========== Running FOLD 3 ==============
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2         0.0277177             0             0
+       3                 0             0             0
+Algorithm converged after 3 iterations.
+
+estr =
+
+     1
+
+
+esem =
+
+    0.2993    0.1508    0.1472    0.1401    0.2626
+
+
+s =
+
+    21
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00731238             0   1.11022e-17
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    22
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00994258             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    23
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00199516             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    24
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00416995             0   5.55112e-18
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    25
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2       0.000546516             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    26
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00129517             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    27
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00130655             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    28
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00242497             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    29
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2       0.000558374             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    30
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00675618             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+=========== Running FOLD 4 ==============
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2         0.0275782             0   1.11022e-17
+       3                 0             0             0
+Algorithm converged after 3 iterations.
+
+estr =
+
+     1
+
+
+esem =
+
+    0.2989    0.1508    0.1472    0.1394    0.2637
+
+
+s =
+
+    31
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00740181             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    32
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00387781             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    33
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00422334             0   1.11022e-17
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    34
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00123235             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    35
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00437184             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    36
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00264785             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    37
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00169885             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    38
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00120311             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    39
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00280528             0   5.55112e-18
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    40
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00874716             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+=========== Running FOLD 5 ==============
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2         0.0273969             0             0
+       3                 0             0             0
+Algorithm converged after 3 iterations.
+
+estr =
+
+     1
+
+
+esem =
+
+    0.2984    0.1507    0.1469    0.1391    0.2649
+
+
+s =
+
+    41
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00112342             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    42
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00264601             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    43
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00356328             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    44
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2       0.000304701             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    45
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2       0.000476852             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    46
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2       0.000741228             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    47
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00292648             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    48
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00165378             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    49
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00247784             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    50
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2       0.000388616             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+=========== Running FOLD 6 ==============
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2         0.0277386             0   5.55112e-18
+       3                 0             0             0
+Algorithm converged after 3 iterations.
+
+estr =
+
+     1
+
+
+esem =
+
+    0.2982    0.1509    0.1472    0.1397    0.2640
+
+
+s =
+
+    51
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00454674             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    52
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00128994             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    53
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00475966             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    54
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2       0.000523734             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    55
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00228707             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    56
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00377047             0   1.11022e-17
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    57
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00380146             0   5.55112e-18
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    58
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00706588             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    59
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00366704             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    60
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00164066             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+=========== Running FOLD 7 ==============
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2         0.0276285             0             0
+       3                 0             0             0
+Algorithm converged after 3 iterations.
+
+estr =
+
+     1
+
+
+esem =
+
+    0.2976    0.1498    0.1479    0.1396    0.2652
+
+
+s =
+
+    61
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00114108             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    62
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00381832             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    63
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00104127             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    64
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00157891             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    65
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00034643             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    66
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2       0.000541303             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    67
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00351488             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    68
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2       0.000258309             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    69
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00188524             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    70
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00471564             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+=========== Running FOLD 8 ==============
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2         0.0272768             0             0
+       3                 0             0             0
+Algorithm converged after 3 iterations.
+
+estr =
+
+     1
+
+
+esem =
+
+    0.2980    0.1492    0.1474    0.1396    0.2658
+
+
+s =
+
+    71
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00415448             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    72
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00136886             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    73
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00669956             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    74
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00705763             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    75
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2       0.000584899             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    76
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00615446             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    77
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00025584             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    78
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00208609             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    79
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00255657             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    80
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00319786             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+=========== Running FOLD 9 ==============
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2         0.0273625             0             0
+       3                 0             0             0
+Algorithm converged after 3 iterations.
+
+estr =
+
+     1
+
+
+esem =
+
+    0.2967    0.1502    0.1461    0.1397    0.2673
+
+
+s =
+
+    81
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00185209             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    82
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00193406             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    83
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00901635             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    84
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00487321             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    85
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00261069             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    86
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00256949             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    87
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2          0.006537             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    88
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00285006             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    89
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00194945             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    90
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2         0.0163487             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+=========== Running FOLD 10 ==============
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2         0.0272625             0   1.11022e-17
+       3                 0             0   1.11022e-17
+Algorithm converged after 3 iterations.
+
+estr =
+
+     1
+
+
+esem =
+
+    0.2982    0.1488    0.1473    0.1402    0.2654
+
+
+s =
+
+    91
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00608236             0   1.11022e-17
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    92
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00260947             0   5.55112e-18
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    93
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00229781             0   1.11022e-17
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    94
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2       0.000431964             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    95
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2       0.000562493             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    96
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00326526             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    97
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00115083             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    98
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00244154             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+    99
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2         0.0012135             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+
+s =
+
+   100
+
+Relative Changes in Log Likelihood, Transition Matrix and Emission Matrix
+   Iteration       Log Lik    Transition     Emmission
+       2        0.00688832             0             0
+[Warning: Algorithm did not converge with tolerance 1e-06 in 2 iterations.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('hmmtrain', 'C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m', 297)" style="font-weight:bold">hmmtrain</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2015a\toolbox\stats\stats\hmmtrain.m',297,0)">line 297</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ajhmm', 'C:\Users\aj526\Downloads\ajhmm.m', 27)" style="font-weight:bold">ajhmm</a> (<a href="matlab: opentoline('C:\Users\aj526\Downloads\ajhmm.m',27,0)">line 27</a>)] 
+
+ans =
+
+     1
+
+diary off
