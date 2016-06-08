@@ -3,14 +3,14 @@
 ## PDF report
 [Click Here!!](https://github.com/arjunjauhari/hmm-graphicalmodels-kaggle/blob/master/writeup.pdf)
 
-Introduction {introduction .unnumbered}
+Introduction
 ============
 
 All of our experiments were conducted in MATLAB using the Statistics and
 Machine Learning Toolbox functions related to hidden Markov Models,
 namely, `hmmtrain` and `hmmdecode`.
 
-Choosing number of states {choosing-number-of-states .unnumbered}
+Choosing number of states
 =========================
 
 One of the most important task for doing accurate prediction of missing
@@ -71,11 +71,11 @@ Figures 1 & 2 show the table & plot resp. with the k-fold cross
 validation likelihood values we get across different values of S.
 
 ![k-fold cross validation table across different values of
-S](table2.png "fig:") [Fig1: k-fold cross validation table across
+S](documentation/table2.png "fig:") [Fig1: k-fold cross validation table across
 different values of S]
 
 ![k-fold cross validation plot across different values of
-S](sweepPlot2.jpg "fig:") [Fig1: k-fold cross validation plot across
+S](documentation/sweepPlot2.jpg "fig:") [Fig1: k-fold cross validation plot across
 different values of S]
 
 From the above figures we can see that the best value for \# of states
@@ -119,10 +119,10 @@ case.\
    1.0000   0.0000   0.0000   0.0000   0.0000
   -------- -------- -------- -------- --------
 
-Predicting missing values {#predicting-missing-values .unnumbered}
+Predicting missing values
 =========================
 
-Method 1 - Maximum Likelihood {#method-1---maximum-likelihood .unnumbered}
+Method 1 - Maximum Likelihood
 -----------------------------
 
 We first estimate the transition and emission probabilities with the 10
@@ -154,7 +154,7 @@ be done using `hmmdecode` command on Matlab for individual sequences.
 preserves the ordering. This submission gave us a score of **0.9111**,
 which is $3^{rd}$ best on the Kaggle leaderboard.
 
-Method 2 - Different initialization seed {#method-2---different-initialization-seed .unnumbered}
+Method 2 - Different initialization seed
 ----------------------------------------
 
 We once again tried the same method as before but with a different
@@ -167,7 +167,7 @@ both these methods seemed reasonable on these 22 sequences. We went
 ahead and made a submission with these new predictions. This submission
 gave us a score of **0.90**.
 
-Method 3 - Training on full data {#method-3---training-on-full-data .unnumbered}
+Method 3 - Training on full data
 --------------------------------
 
 We then performed training on all the 1000 sequences. The missing values
@@ -176,7 +176,7 @@ obtaining the transition and emission probabilities, we performed
 prediction on the 900 sequences. This submission gave us a score of
 **0.89556**.
 
-Method 4 - Predictions from Method 1 + Manual supervison {#method-4---predictions-from-method-1-manual-supervison .unnumbered}
+Method 4 - Predictions from Method 1 + Manual supervison
 --------------------------------------------------------
 
 We once again used the predictions from method 1. We noticed that for
@@ -189,7 +189,7 @@ values. But 3 was the higher of the two. So we pick 2 as our prediction.
 We repeated this for all such cases. This submission gave us a score of
 **0.9022**
 
-Method 5 - Experiments with different \# of states S {#method-5---experiments-with-different-of-states-s .unnumbered}
+Method 5 - Experiments with different \# of states S
 ----------------------------------------------------
 
 To solidify our intuition from the graph that prediction accuracy
@@ -211,7 +211,7 @@ summarizes the results.
 We therefore did not explore S=8 as we see a dip at that point in figure
 2.
 
-Accounting for reversed sequences {#accounting-for-reversed-sequences .unnumbered}
+Accounting for reversed sequences
 =================================
 
 For all of our experiments, we did not account for reversed sequences
@@ -221,7 +221,7 @@ sequences. Sequences with log-likelihood values lower than usual could
 be considered to be outliers (which in this case are reversed
 sequences).
 
-Parameters for our best performing model {#parameters-for-our-best-performing-model .unnumbered}
+Parameters for our best performing model
 ========================================
 
 No. of states = 10\
@@ -230,7 +230,7 @@ No. of observations = 5 (given)\
 \
 Predictions were made as explained in method 1.
 
-Comments {#comments .unnumbered}
+Comments
 ========
 
 For all the algorithms we used like Baum-Welch (`hmmtrain`) or
@@ -244,7 +244,7 @@ example, we reduced the tolerance in `hmmtrain` which governs the
 convergence criteria of Baum-Welch algorithm, from default 1e-6 to 1e-4,
 so that it is less prone to overfit.
 
-Conclusion {#conclusion .unnumbered}
+Conclusion
 ==========
 
 We got our best accuracy with Method 1 which we believe is the most
