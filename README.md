@@ -1,16 +1,16 @@
 # Graphical Models (HMM) - A inclass Kaggle competition
 
 ## PDF report
-[Click Here!!](https://github.com/arjunjauhari/crowdfundingML-kaggle/blob/master/writeup.pdf)
+[Click Here!!](https://github.com/arjunjauhari/hmm-graphicalmodels-kaggle/blob/master/writeup.pdf)
 
-Introduction {#introduction .unnumbered}
+Introduction {introduction .unnumbered}
 ============
 
 All of our experiments were conducted in MATLAB using the Statistics and
 Machine Learning Toolbox functions related to hidden Markov Models,
 namely, `hmmtrain` and `hmmdecode`.
 
-Choosing number of states {#choosing-number-of-states .unnumbered}
+Choosing number of states {choosing-number-of-states .unnumbered}
 =========================
 
 One of the most important task for doing accurate prediction of missing
