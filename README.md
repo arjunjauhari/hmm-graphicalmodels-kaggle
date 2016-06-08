@@ -75,7 +75,7 @@ S](documentation/table2.png "fig:") [Fig1: k-fold cross validation table across
 different values of S]
 
 ![k-fold cross validation plot across different values of
-S](documentation/sweepPlot2.jpg "fig:") [Fig1: k-fold cross validation plot across
+S](documentation/sweepPlot2.jpg "fig:") [Fig2: k-fold cross validation plot across
 different values of S]
 
 From the above figures we can see that the best value for \# of states
@@ -83,28 +83,25 @@ is **10**. We can also see that S= 9, 10, 11 all perform equally well,
 so it looks like that the correct number of states is 10 and any \# of
 states above that is sufficient to correctly fit the data. We chose 10
 because there is no good reason to choose more states. On the other
-hand, it might overfit if we choose more states than required.\
-\
+hand, it might overfit if we choose more states than required.
+
 Below we show the Transition matrix and the emission matrix for S=9
-case.\
+case.
 
 **Transition Matrix**
 
   -------- -------- -------- -------- -------- -------- -------- -------- --------
-   0.0913   0.0154   0.8855   0.0000     0      0.0000   0.0000   0.0000   0.0078
-   0.9095   0.0466   0.0000     0      0.0000   0.0000   0.0000     0      0.0439
-   0.0002   0.0018   0.0649   0.0000   0.0000   0.0000   0.9121   0.0000   0.0210
-   0.0000   0.0153     0      0.0074   0.9526   0.0004   0.0000   0.0057   0.0187
-   0.0000   0.0159     0      0.0000   0.0383   0.9432     0      0.0000   0.0027
-   0.0000   0.6462   0.0000   0.0000   0.0001   0.1133     0      0.0000   0.2403
-   0.0000   0.0047   0.0000   0.7260   0.0000   0.0018   0.0733   0.1740   0.0202
-   0.0000   0.0027     0      0.2709   0.6631   0.0005   0.0000   0.0591   0.0037
-   0.8830   0.0886   0.0000     0      0.0000   0.0000   0.0000     0      0.0284
+   |0.0913   0.0154   0.8855   0.0000     0      0.0000   0.0000   0.0000   0.0078|
+   |0.9095   0.0466   0.0000     0      0.0000   0.0000   0.0000     0      0.0439|
+   |0.0002   0.0018   0.0649   0.0000   0.0000   0.0000   0.9121   0.0000   0.0210|
+   |0.0000   0.0153     0      0.0074   0.9526   0.0004   0.0000   0.0057   0.0187|
+   |0.0000   0.0159     0      0.0000   0.0383   0.9432     0      0.0000   0.0027|
+   |0.0000   0.6462   0.0000   0.0000   0.0001   0.1133     0      0.0000   0.2403|
+   |0.0000   0.0047   0.0000   0.7260   0.0000   0.0018   0.0733   0.1740   0.0202|
+   |0.0000   0.0027     0      0.2709   0.6631   0.0005   0.0000   0.0591   0.0037|
+   |0.8830   0.0886   0.0000     0      0.0000   0.0000   0.0000     0      0.0284|
   -------- -------- -------- -------- -------- -------- -------- -------- --------
 
-\
-
-\
 **Emission Matrix**
 
   -------- -------- -------- -------- --------
