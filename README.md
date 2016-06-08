@@ -32,15 +32,13 @@ We are mostly interested in estimating the first three parameters of the
 HMM. If we know the number of states (S), we can use the Baum-Welch
 algorithm to estimate the other parameters. We used Matlab’s library
 implementation of Baum-Welch algorithm to learn the parameters from
-data. The library function we used was `hmmtrain`.\
-\
+data. The library function we used was `hmmtrain`.
 Instead of just randomly guessing and trying the various possible values
 for S, we decided to use a more principled way. We decided to sweep the
 values of S over the range 1 to 11 and performed k-fold cross validation
 to pick the best S. Best S is the one which has the maximum likelihood
 over the validation set given the parameters of HMM (which we learn from
-training set).\
-\
+training set).
 We used the first 100 rows of the data matrix given to us for this
 experiment. So our dataset D = {First 100 rows of file fillindata.csv}.
 Below are the steps we performed to find S:
@@ -90,7 +88,7 @@ case.
 
 **Transition Matrix**
 
-  -------- -------- -------- -------- -------- -------- -------- -------- --------
+  -------- |--------|--------|--------|--------|--------|--------|--------|--------
    |0.0913   0.0154   0.8855   0.0000     0      0.0000   0.0000   0.0000   0.0078|
    |0.9095   0.0466   0.0000     0      0.0000   0.0000   0.0000     0      0.0439|
    |0.0002   0.0018   0.0649   0.0000   0.0000   0.0000   0.9121   0.0000   0.0210|
